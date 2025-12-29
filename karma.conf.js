@@ -1,6 +1,8 @@
 // Karma configuration file, see link for more information
 // https://karma-runner.github.io/1.0/config/configuration-file.html
-//Made some changes
+//Made some changes and added few more changes
+// To Practice
+//Commit to Github_Branch
 module.exports = function (config) {
   config.set({
     basePath: '',
